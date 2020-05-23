@@ -2,22 +2,22 @@
 
 My arch linux Configuration:
 
-## Pacman downloads:
+### Pacman downloads:
 
 pacman -S base-devel networkmanager python firefox xorg xorg-xinit wget linux linux-firmware linux-headers dhcpcd vim i3 base zip 
 
-# sound driver
+##### sound driver
 alsa-utils 
 
-# pdf viewer
+##### pdf viewer
 zathura
 
-# img viewer 
+##### img viewer 
 feh
 
-# AUR helper
+##### AUR helper
 aurget
 
-# wifi drivers
+##### wifi drivers
 rt1882bu-dkms-git 
 
